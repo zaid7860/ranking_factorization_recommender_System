@@ -13,6 +13,8 @@ There are also books marked to read by the users, book metadata (author, year, e
 # Dependencies 
 
 pip install turicreate
+
+
 pip install pandas
 
 NOTE: as of 8th September 2020 , Turicreate is not available for Windows.
